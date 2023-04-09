@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# ignoring working folders
+arcgis/
+data/
